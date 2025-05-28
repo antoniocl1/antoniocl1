@@ -53,8 +53,16 @@
 
 # 📊 Estadísticas de GitHub
 
-<!-- GitHub stats de https://github.com/anuraghazra/github-readme-stats -->
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniocl1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+<!-- GitHub stats from anuraghazra/github-readme-stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antoniocl1&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Antonio" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocl1&layout=compact&theme=radical&hide_border=false" alt="Lenguajes más usados" height="180"/>
+</p>
+
+<!-- Gráfico de contribuciones opcional -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=antoniocl1&theme=radical&hide_border=false" alt="Gráfico de actividad de GitHub"/>
+</p>
 
 ---
 
