@@ -26,17 +26,16 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### 🌐 Redes y Seguridad:
-![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge&logo=ethernet&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-00599C?style=for-the-badge&logo=network&logoColor=white)
 ![iptables](https://img.shields.io/badge/iptables-lightgrey?style=for-the-badge&logo=linux&logoColor=black)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white)
-![Ciberseguridad](https://img.shields.io/badge/Cybersecurity-in%20progress-orange?style=for-the-badge&logo=protonmail&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![FTP](https://img.shields.io/badge/FTP-0061A8?style=for-the-badge&logo=files&logoColor=white)
 ![DNS](https://img.shields.io/badge/DNS-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ### 🌐 Desarrollo y Frameworks:
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![AI](https://img.shields.io/badge/AI-in%20progress-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![IA](https://img.shields.io/badge/IA-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🧠 Lenguajes de Programación y Scripting:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -45,9 +44,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🧰 Control de Versiones y Herramientas:
+### 🧰 Control de Versiones y Productividad:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
 
 ---
 
