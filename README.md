@@ -61,7 +61,7 @@
 
 <!-- Gráfico de contribuciones opcional -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=antoniocl1&theme=radical&hide_border=false" alt="Gráfico de actividad de GitHub"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antoniocl1&theme=radical&hide_border=false" alt="Gráfico de actividad de GitHub"/>
 </p>
 
 ---
