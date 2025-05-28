@@ -46,7 +46,7 @@
 
 ## 🌐 Encuéntrame en:
 
-- 📫 [LinkedIn](https://www.linkedin.com/in/tu-nombre) *(añádelo si tienes uno)*
+- 📫 [LinkedIn](https://www.linkedin.com/in/antonio-jes%C3%BAs-cort%C3%A9s-l%C3%B3pez-502189348/)
 - 📁 [Proyectos destacados en GitHub](https://github.com/antoniocl1)
 
 ¡Gracias por visitar mi perfil! 🚀
