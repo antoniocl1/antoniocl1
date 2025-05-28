@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Antonio
 
-🎓 Técnico Superior en **[Administración de Sistemas Informáticos en Red](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/admin-sist-informaticos-red.html)**, formado en el [IES Celia Viñas](https://iescelia.org), Almería.    
+🎓 Técnico Superior en **[Administración de Sistemas Informáticos en Red](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/admin-sist-informaticos-red.html)**, formado en el **[IES Celia Viñas](https://iescelia.org)**, Almería.    
 🛠️ Actualmente en formación continua en **Ciberseguridad** y tecnologías IT.  
 🚀 Apasionado de la tecnología, la automatización, los sistemas Linux y los proyectos que suponen un reto.  
 🌱 Siempre aprendiendo algo nuevo y desarrollando proyectos que me motivan.
